@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">dicodingActivity</string>
+    <string name="lenght">panjang</string>
+    <string name="widht">lebar</string>
+    <string name="height">tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
 </resources>
