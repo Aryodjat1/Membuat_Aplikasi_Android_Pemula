@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00ADB5</color>
+    <color name="colorPrimaryDark">#0064FF</color>
+    <color name="windowBackground">#EEEEEE</color>
+    <color name="navigationBarColor">#393E46</color>
+    <color name="cardBoxColor">#AFAFAF</color>
+    <color name="headerText">#222831</color>
+</resources>
