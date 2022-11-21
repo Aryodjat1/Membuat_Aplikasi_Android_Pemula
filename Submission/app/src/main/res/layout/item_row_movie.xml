@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:textSize="16sp"
             android:textStyle="bold"
-            tools:text="@string/heroes_name" />
+            tools:text="@string/Title" />
 
         <TextView
             android:id="@+id/tv_item_genre"
@@ -43,7 +43,7 @@
             android:ellipsize="end"
             android:textSize="12sp"
             android:textStyle="bold"
-            tools:text="@string/detail" />
+            tools:text="@string/Genre" />
 
         <TextView
             android:id="@+id/tv_item_rating"
@@ -53,7 +53,7 @@
             android:textSize="12sp"
             android:layout_marginBottom="4dp"
             android:textStyle="bold"
-            tools:text="@string/detail" />
+            tools:text="@string/rate" />
 
         <TextView
             android:id="@+id/tv_item_desc"
@@ -61,7 +61,7 @@
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:maxLines="2"
-            tools:text="@string/detail" />
+            tools:text="@string/desc" />
     </LinearLayout>
 
 </LinearLayout>

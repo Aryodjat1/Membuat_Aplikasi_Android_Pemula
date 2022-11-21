@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">dicodingSubmission</string>
+    <string name="Title">Judul Film</string>
+    <string name="Genre">Genre</string>
+    <string name="rate">Rating</string>
+    <string name="desc">Description</string>
+    <string name="name">Aryo Djati</string>
+    <string name="email">aryodjati5@gmail.com</string>
 </resources>
